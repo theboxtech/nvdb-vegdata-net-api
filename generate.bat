@@ -1,0 +1,1 @@
+%USERPROFILE%\.nuget\packages\nswag.msbuild\13.15.10\tools\NetCore31\dotnet-nswag.exe openapi2csclient /input:..\nvdb-vegdata-openapi-clone\openapi.yaml /output:NVDB.Client\Generated\GeneratedClient.cs /className:GeneratedClient /namespace:NVDB.Client.Generated
